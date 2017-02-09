@@ -1,0 +1,11 @@
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\obj\Debug\Base_Normal_Selenium.csprojResolveAssemblyReference.cache
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\obj\Debug\Base_Normal_Selenium.csproj.ResolveComReference.cache
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\Base_Normal_Selenium.exe.config
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\Base_Normal_Selenium.exe
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\Base_Normal_Selenium.pdb
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\WebDriver.dll
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\WebDriver.Support.dll
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\WebDriver.xml
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\bin\Debug\WebDriver.Support.xml
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\obj\Debug\Base_Normal_Selenium.exe
+d:\users\ysibirkin\documents\visual studio 2017\Projects\Base_Normal_Selenium\Base_Normal_Selenium\obj\Debug\Base_Normal_Selenium.pdb
